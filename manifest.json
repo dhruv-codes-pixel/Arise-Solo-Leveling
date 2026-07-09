@@ -2,7 +2,7 @@
   "name": "Arise — Hunter Training System",
   "short_name": "Arise",
   "description": "Solo Leveling inspired training & habit system",
-  "start_url": "./index.html",
+  "start_url": "/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
